@@ -1,9 +1,9 @@
 {
     "name": "Python CI template",
-    "description": "This is a custom workflow template.",
-    "iconName": "test-template-icon",
+    "description": "This is a Python CI workflow template.",
+    "iconName": "python-ci-icon",
     "categories": [
-        "javascript"
+        "python"
     ],
     "filePatterns": [
         "package.json$"
